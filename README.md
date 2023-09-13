@@ -1,5 +1,5 @@
 # WetAI: Collaborative Neurobiology
-## Assignment #2: Perceptron
+## Assignment #1: Perceptron
 
 # Perceptrons Learning Assignment
 
