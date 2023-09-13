@@ -20,7 +20,7 @@ Throughout this assignment, you will:
 - Learn the theory behind perceptrons and how they function.
 - Explore practical examples and applications of perceptrons.
 - Engage in hands-on exercises to solidify your understanding.
-- Have the opportunity to test your knowledge through interactive quizzes.
+- Have the opportunity to test your knowledge through interactive homework assignments.
 
 ## How to Use This Repository
 
