@@ -7,7 +7,7 @@ Welcome to the Perceptrons Learning Assignment! This assignment is your gateway 
 
 ## Getting Started
 
-To begin or resume your assignment, simply click the "Start Assignment" button below. Whether you're a student eager to delve into the world of perceptrons or an enthusiast looking to sharpen your skills, this assignment will guide you through the essential concepts step by step.
+To begin or resume your assignment, simply click the "Open in GitHub Codespaces" button below. Whether you're a student eager to delve into the world of perceptrons or an enthusiast looking to sharpen your skills, this assignment will guide you through the essential concepts step by step.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Braingeneers-Education/WetAI-Perceptron?quickstart=1)
 
@@ -26,7 +26,7 @@ Throughout this assignment, you will:
 
 ## How to Use This Repository
 
-This repository contains all the resources you need to complete the assignment successfully. You'll find detailed instructions, code examples, and quizzes. To begin, click the "Start Assignment" button above, and you'll be directed to the assignment platform.
+This repository contains all the resources you need to complete the assignment successfully. You'll find detailed instructions, code examples, and quizzes. To begin, click the "Open in GitHub Codespaces" button above, and you'll be directed to the assignment platform.
 
 We're excited to embark on this learning journey with you as you explore the fascinating world of perceptrons!
 
