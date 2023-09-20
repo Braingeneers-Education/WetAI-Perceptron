@@ -1,5 +1,5 @@
 # WetAI: Collaborative Neurobiology
-## Assignment #1: Perceptron
+## Assignment #0: Perceptron
 
 Welcome to the Perceptrons Learning Assignment! This assignment is your gateway to understanding one of the fundamental building blocks of artificial neural networks — the perceptron. Whether you're new to the world of machine learning or seeking to reinforce your knowledge, this assignment will provide you with insights into the core concepts of perceptrons.
 
